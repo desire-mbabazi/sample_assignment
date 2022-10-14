@@ -1,5 +1,6 @@
-# Test_autograded
-This is a template for autograding
+# Sample_Assignment
+This is a template assignment
 ## Important files to note:
-- Makefile: Makes the connection between the github grader and the test files
-- Test files: Each is assigned marks that are awarded when all tests are passed.
+- Step 1: Clone this repository onto your local machine
+- Step 2: Edit main.cpp according to guidelines
+- Step 3: Push the repository back for grading
