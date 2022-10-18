@@ -3,6 +3,6 @@
 #include "../main.cpp"
 
 TEST_CASE( "Printing Hello World", "[Hello]" ) {
-    CHECK( helloworld() == "Hello World" );
+    CHECK( helloworld() == "Hello World!" );
 }
 
