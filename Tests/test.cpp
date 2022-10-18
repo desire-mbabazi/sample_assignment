@@ -2,7 +2,7 @@
 #include "catch.hpp"
 #include "../main.cpp"
 
-TEST_CASE( "Factorial of 0", "[Factorial]" ) {
-    CHECK( Factorial(0) == 1 );
+TEST_CASE( "Printing Hello World", "[Hello]" ) {
+    CHECK( helloworld() == "Hello World" );
 }
 
